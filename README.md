@@ -76,9 +76,7 @@ cd aplicativo-notas
 
 Inicie o servidor Flask:
 
-    ```bash
     python app.py
-    ```
 
 O servidor estará rodando em `http://localhost:5000`.
 
@@ -86,9 +84,7 @@ O servidor estará rodando em `http://localhost:5000`.
 
 Inicie o servidor Angular:
 
-    ```bash
     ng serve
-    ```
 
 O frontend estará disponível em `http://localhost:4200`.
 
