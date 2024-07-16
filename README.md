@@ -4,19 +4,14 @@ Este é um aplicativo de notas desenvolvido com Flask no backend e Angular no fr
 
 ## Índice
 
-1. [Descrição do Projeto](#descrição-do-projeto)
-2. [Funcionalidades](#funcionalidades)
-3. [Pré-requisitos](#pré-requisitos)
-4. [Instalação](#instalação)
-5. [Configuração](#configuração)
-6. [Como Usar](#como-usar)
-7. [Estrutura do Projeto](#estrutura-do-projeto)
-8. [Endpoints da API](#endpoints-da-api)
-9. [Templates Angular](#templates-angular)
-
-## Descrição do Projeto
-
-Este aplicativo permite aos usuários realizar operações CRUD (Create, Read, Update, Delete) de notas. Utilizando Flask para o backend e Angular para o frontend, o sistema proporciona uma interface dinâmica e responsiva para gerenciar notas de forma eficiente.
+1. [Funcionalidades](#funcionalidades)
+2. [Pré-requisitos](#pré-requisitos)
+3. [Instalação](#instalação)
+4. [Configuração](#configuração)
+5. [Como Usar](#como-usar)
+6. [Estrutura do Projeto](#estrutura-do-projeto)
+7. [Endpoints da API](#endpoints-da-api)
+8. [Templates Angular](#templates-angular)
 
 ## Funcionalidades
 
